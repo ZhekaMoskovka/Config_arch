@@ -14,3 +14,4 @@ image/png=brave-browser.desktop;viewnior.desktop;
 application/vnd.ms-publisher=notepadqq.desktop;brave-browser.desktop;
 image/jpeg=viewnior.desktop;
 application/x-desktop=notepadqq.desktop;
+text/plain=notepad++.desktop;com.github.alexkdeveloper.notepad.desktop;notepadqq.desktop;
